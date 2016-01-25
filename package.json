@@ -1,0 +1,23 @@
+{
+  "name": "spinda",
+  "version": "0.0.1",
+  "description": "A stats dashboard for Jupyter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainsafia/spinda.git"
+  },
+  "keywords": [
+    "jupyter",
+    "dashboard"
+  ],
+  "author": "Safia Abdalla <safia@safia.rocks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/captainsafia/spinda/issues"
+  },
+  "homepage": "https://github.com/captainsafia/spinda#readme"
+}
